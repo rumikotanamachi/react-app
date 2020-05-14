@@ -17,7 +17,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <div>
-        <h1>react app</h1>
+        <h1>React app</h1>
         <ul>
           <li><Link to='/react'>React</Link></li>
           <li><Link to='/vue'>Vue</Link></li>
